@@ -1,0 +1,6 @@
+[submodule "MiniPayPlatform"]
+	path = MiniPayPlatform
+	url = https://github.com/GHAZI-ALANZI/MiniPayPlatform.git
+[submodule "ClientAppMiniPay"]
+	path = ClientAppMiniPay
+	url = https://github.com/GHAZI-ALANZI/ClientAppMiniPay.git
